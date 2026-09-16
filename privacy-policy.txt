@@ -1,0 +1,62 @@
+TipTapDot Privacy Policy
+Devaarth Studios
+Last updated: September 16, 2026
+
+TipTapDot is a mobile game made by Devaarth Studios. This page explains what
+happens to your information when you play. The short version: the game does not
+collect anything, and it cannot send anything anywhere.
+
+1. Information we collect
+We do not collect, request, or receive any personal information. There are no
+accounts, no sign in, no email address required, and no contact list access.
+
+2. Information stored on your device
+The game saves a few things locally on your phone so it can remember your
+progress between sessions. This information never leaves your device:
+  * Your best score and best combo
+  * The name you type for the high score screen
+  * How many games you have played and how many dots you have popped
+  * Your sound and music on or off settings
+This data lives in the app's private storage. Other apps cannot read it. If you
+uninstall TipTapDot, this data is deleted with it.
+
+3. Internet access
+TipTapDot does not ask for the Internet permission. Because of that, the app is
+technically unable to send any information off your device, even if it wanted
+to. The game works fully offline.
+
+4. Permissions the app uses
+  * Vibration. Used only to give a small haptic buzz when you pop dots, land
+    combos, or hit a boss. You can turn this off in your phone settings at any
+    time.
+There are no other permissions.
+
+5. Sharing and rating buttons
+The game has Share App, Share Score, and Rate Us buttons. When you tap one of
+these, Android opens the app you choose, such as a messaging app, a social app,
+or the Google Play Store. Whatever you send is handled by that app under its own
+privacy policy. We do not receive a copy, and we do not track whether you used
+the button.
+
+6. Advertising and analytics
+There are no ads in TipTapDot. There are no analytics tools, no crash reporting
+services, and no third party tracking software. Nothing is profiled and nothing
+is sold.
+
+7. Children's privacy
+TipTapDot is not directed at children under 13. Since the game collects no
+information at all, it also does not knowingly collect anything from children.
+If you believe a child has somehow provided information to us, contact us and we
+will help.
+
+8. Changes to this policy
+If the game changes in a way that affects privacy, this page will be updated and
+the date at the top will change. Continued use of the game after an update means
+you accept the new version of this policy.
+
+9. Contact
+If you have any questions about this policy, email us at
+REPLACE_WITH_YOUR_EMAIL@example.com
+
+TipTapDot is developed by Devaarth Studios.
+Package name: com.devaarthstudios.tiptapdot
